@@ -18,12 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
         <activity android:name=".LevelUp"></activity>
         <activity android:name=".Manager"></activity>
-=======
         <activity android:name=".MainActivity"></activity>
->>>>>>> 6300017c075cd9553852d0f695a662bdf85b0254
     </application>
 
 </manifest>
